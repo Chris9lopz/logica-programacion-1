@@ -1,12 +1,11 @@
 Algoritmo practicaTaller
 	
-	//Debe solicitar al usuario 3 números y guardarlos.
-	//Debe analizar los números, identificar cual es el número mayor, el número del centro y el número menor.
-	//Debe imprimir los números ordenados de mayor a menor, y de menor a mayor.
-	//Debe ser capaz de identificar si los números son iguales e imprimir un mensaje diciendo que los números son iguales.
+	//Debe solicitar al usuario 3 nÃºmeros y guardarlos.
+	//Debe analizar los nÃºmeros, identificar cual es el nÃºmero mayor, el nÃºmero del centro y el nÃºmero menor.
+	//Debe imprimir los nÃºmeros ordenados de mayor a menor, y de menor a mayor.
+	//Debe ser capaz de identificar si los nÃºmeros son iguales e imprimir un mensaje diciendo que los nÃºmeros son iguales.
 	
 	Definir num1, num2, num3 Como Entero
-	Dimension arreglo[100]
 	
 	Escribir "Ingrese el primer numero"
 	Leer num1
